@@ -6,7 +6,7 @@ All students should have received a welcome e-mail from me on how to get set up 
 
 ## Instructor
 
-![Bor-Yuh Evan Chang](assets/chang.jpg) | [Prof. Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec) <br/> **Regular Office Hours**: Tue and Thu 8:30am-9:15am in CSEL ECCS 112.
+![Bor-Yuh Evan Chang](assets/chang.jpg) | [Prof. Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec) <br/> **Regular Office Hours**: Tue and Thu 8:30am-9:20am in CSEL ECCS 112.
 
 ## Co-Instructor
 
