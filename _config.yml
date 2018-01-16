@@ -1,0 +1,13 @@
+theme: jekyll-theme-architect
+title: Fundamentals of Programming Languages
+description: CSCI 5535 and ECEN 5533
+
+nav:
+- title: Welcome
+  url: .
+- title: Schedule
+  url: schedule.html
+- title: Assignments
+  url: assignments.html
+- title: Moodle
+  url: https://moodle.cs.colorado.edu/course/view.php?id=828
