@@ -1,4 +1,4 @@
-# Fall 2017
+# Spring 2018
 
 Class meetings are Tuesdays and Thursdays 9:30-10:45 in ECEE 283.
 
