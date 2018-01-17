@@ -8,6 +8,9 @@ Homework solutions should be submitted by 6:00 p.m. on the due date (with an aut
   
 **Due Friday, January 26, 2018**
 
+- [Handout](hws/hw00.pdf)
+- [Repository](https://github.com/csci5535/hw00)
+
 # Class Participation and Online Discussion
 
 It is important to attend class and read the readings. Lively class discussion is also important, which includes in-class participation, as well as participation in the online forums.
