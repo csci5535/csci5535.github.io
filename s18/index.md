@@ -180,7 +180,7 @@ The programming languages we study and use in this course will be closely relate
 - [OCaml](http://caml.inria.fr/ocaml/index.en.html) is available for most platforms and via most package management systems. I suggest installing OCaml using an appropriate package manager on your system (e.g., MacPorts or Homebrew on Mac OS and Cygwin on Windows).
 - [OCaml Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html)
 - [Developing Applications with Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/) (book)
-- [99 Problems](http://ocaml.org/tutorials/99problems.html) in OCaml
+- [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) in OCaml
 - IDE: [Emacs mode](http://tuareg.forge.ocamlcore.org/), [Eclipse plug-in](http://www.algo-prog.info/ocaide/)
 
 ## Computing
