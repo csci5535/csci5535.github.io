@@ -181,6 +181,7 @@ The programming languages we study and use in this course will be closely relate
 - [OCaml Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html)
 - [Developing Applications with Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/) (book)
 - [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) in OCaml
+- [ocaml.org/learn](https://ocaml.org/learn/) is an overview of learning resources
 - IDE: [Emacs mode](http://tuareg.forge.ocamlcore.org/), [Eclipse plug-in](http://www.algo-prog.info/ocaide/)
 
 ## Computing
