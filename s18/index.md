@@ -98,7 +98,7 @@ Extra credit opportunities may be offered during the course semester.  Extra cre
 
 ## Pair Programming
 
-You are asked to work on homework assignments in **pairs**, enabling pair programming. Homework assignments are the main opportunity to learn material in this course and thus they count for a relatively small portion of your final grade. It is strongly advised that you work on all the problems in an assignment together so that you understand all of the material and are prepared for the exam.  Everyone will submit assignments, and you must cite your partner explicitly.  If necessary, you may switch partners between assignments, and you are responsible for all assignments individually (e.g., if your partner drops the course midway though an assignment, you still need to submit on time).
+You may sometimes be asked to work on homework assignments in **pairs**, enabling pair programming. Homework assignments are the main opportunity to learn material in this course and thus they count for a relatively small portion of your final grade. It is strongly advised that you work on all the problems in an assignment together so that you understand all of the material and are prepared for the exam.  Everyone will submit assignments, and you must cite your partner explicitly.  If necessary, you may switch partners between assignments, and you are responsible for all assignments individually (e.g., if your partner drops the course midway though an assignment, you still need to submit on time).
 
 ## Workload
 
