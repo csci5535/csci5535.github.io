@@ -10,7 +10,7 @@ All students should have received a welcome e-mail from me on how to get set up 
 
 ## Co-Instructor
 
-![Matthew A. Hammer](assets/hammer.png) | [Prof.  Matthew A. Hammer](http://matthewhammer.org) <br/> **Regular Office Hours**: TBD.
+![Matthew A. Hammer](assets/hammer.png) | [Prof.  Matthew A. Hammer](http://matthewhammer.org) <br/> **Regular Office Hours**: Tue 2:30pm-3:20pm and Wed 9:30am-10:30am in CSEL ECCS 112.
 
 # Course Overview
 
