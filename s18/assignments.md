@@ -14,7 +14,7 @@ Homework solutions should be submitted by 6:00 p.m. on the due date (with an aut
 
 It is important to attend class and read the readings. Lively class discussion is also important, which includes in-class participation, as well as participation in the online forums.
 
-Students are expected to be active participants in the online forums (e.g., around at least 1 substantive post per week). You may and are encouraged to post comments or questions about the reading before the class where we will cover it. Posting early will help focus our discussion.
+Students are expected to be active participants in the online forums (e.g., around at least 1 substantive post per class meeting). You may and are encouraged to post comments or questions about the reading before the class where we will cover it. Posting early will help focus our discussion.
 
 Here are some examples of good comments:
 
