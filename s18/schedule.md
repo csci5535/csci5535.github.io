@@ -7,29 +7,29 @@ The _Assignment_ column lists the due date for each assignment.
 |  |  | Date | Topic | Reading | Assignment |
 |----|-----|------|-------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|
 | 1 | Tue | 1/16 | Welcome and course overview. Inductive definitions.<br/>*Get signed-up on Moodle.*<br/>*Post a note on Piazza to introduce yourself.* |  |  |
-|  | Thu | 1/18 | Rule induction | Harper Ch. 1-3 |  |
-| 2 | Tue | 1/23 | Statics and dynamics | Harper Ch. 4-5 |  |
-|  | Thu | 1/25 | Statics and dynamics |  | HW0 due Fri |
-| 3 | Tue | 1/30 | Type safety | Harper Ch. 6 |  |
-|  | Thu | 2/1 | Type safety |  |  |
-| 4 | Tue | 2/6 | Function definitions and values | Harper Ch. 8 |  |
-|  | Thu | 2/8 | Function definitions and values |  | HW1 due Fri |
-| 5 | Tue | 2/13 | System T | Harper Ch. 9 |  |
-|  | Thu | 2/15 | Finite data types | Harper Ch. 10-11 |  |
-| 6 | Tue | 2/20 | Propositions as types |  |  |
-|  | Thu | 2/22 | Inductive and coinductive types | Harper Ch. 14-15 |  |
-| 7 | Tue | 2/27 | Imperative computation |  |  |
-|  | Thu | 3/1 | Imperative computation |  |  |
-| 8 | Tue | 3/6 | Denotational semantics |  |  |
-|  | Thu | 3/8 | Denotational semantics |  |  |
-| 9 | Tue | 3/13 | Axiomatic semantics |  |  |
-|  | Thu | 3/15 | Axiomatic semantics |  |  |
-| 10 | Tue | 3/20 | Abstract interpretation |  |  |
-|  | Thu | 3/22 | Abstract interpretation |  |  |
+|  | Thu | 1/18 | Judgments and rules | Harper Ch. 1-2 |  |
+| 2 | Tue | 1/23 | Judgments and rules |  |  |
+|  | Thu | 1/25 | Judgments and rules | Harper Ch. 3 | HW0 due Fri |
+| 3 | Tue | 1/30 | Statics and dynamics | Harper Ch. 4-5 |  |
+|  | Thu | 2/1 | Statics and dynamics |  |  |
+| 4 | Tue | 2/6 | Type safety | Harper Ch. 6-7 |  |
+|  | Thu | 2/8 | Type safety |  | HW1 due Fri |
+| 5 | Tue | 2/13 | Function definitions and values | Harper Ch. 8 |  |
+|  | Thu | 2/15 | Function definitions and values |  |  |
+| 6 | Tue | 2/20 | System T | Harper Ch. 9 |  |
+|  | Thu | 2/22| Finite data types | Harper Ch. 10-11 |  |
+| 7 | Tue | 2/27 | Propositions as types |  |  |
+|  | Thu | 3/1 | Inductive and coinductive types | Harper Ch. 14-15 |  |
+| 8 | Tue | 3/6 | Imperative computation |  |  |
+|  | Thu | 3/8 | Imperative computation |  |  |
+| 9 | Tue | 3/13 | Denotational semantics |  |  |
+|  | Thu | 3/15 | Denotational semantics |  |  |
+| 10 | Tue | 3/20 | Axiomatic semantics |  |  |
+|  | Thu | 3/22 | Axiomatic semantics |  |  |
 | 11 | Tue | 3/27 | No class: spring break |  |  |
 |  | Thu | 3/29 | No class: spring break |  |  |
-| 12 | Tue | 4/3 | Research application |  |  |
-|  | Thu | 4/5 | Research application |  |  |
+| 12 | Tue | 4/3 | Abstract interpretation |  |  |
+|  | Thu | 4/5 | Abstract interpretation |  |  |
 | 13 | Tue | 4/10 | Research application |  |  |
 |  | Thu | 4/12 | Research application |  |  |
 | 14 | Tue | 4/17 | Research application |  |  |
