@@ -17,7 +17,7 @@ The _Assignment_ column lists the due date for each assignment.
 | 5 | Tue | 2/13 | Imperative computation | Winskel Ch. 2; Harper Ch. 34 |  |
 |  | Thu | 2/15 | Function definitions and values | Harper Ch. 8 |  |
 | 6 | Tue | 2/20 | System T | Harper Ch. 9 |  |
-|  | Thu | 2/22| Finite data types | Harper Ch. 10-11 |  |
+|  | Thu | 2/22| Finite data types | Harper Ch. 10-11 | HW2 due Fri |
 | 7 | Tue | 2/27 | Propositions as types |  |  |
 |  | Thu | 3/1 | Inductive and coinductive types | Harper Ch. 14-15 |  |
 | 8 | Tue | 3/6 | Imperative computation |  |  |
