@@ -4,6 +4,12 @@ All homework must be completed in pairs only. You may discuss the problems with 
 
 Homework solutions should be submitted by 6:00 p.m. on the due date (with an automatic twenty-four hour extension). Please take note of the distinction between the assignment deadline and the automatic extension. Questions about the assignment may not answered as promptly after the deadline, particularly when the extension extends into the weekend. Early submissions are welcome.
 
+## Homework Assignment 2
+  
+**Due Friday, February 23, 2018**
+
+- [Handout](hws/hw02.pdf)
+
 ## Homework Assignment 1
   
 **Due Friday, February 9, 2018**
