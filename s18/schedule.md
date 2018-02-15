@@ -7,9 +7,9 @@ The _Assignment_ column lists the due date for each assignment.
 |  |  | Date | Topic | Reading | Assignment |
 |----|-----|------|-------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|
 | 1 | Tue | 1/16 | Welcome and course overview. Inductive definitions.<br/>*Get signed-up on Moodle.*<br/>*Post a note on Piazza to introduce yourself.* |  |  |
-|  | Thu | 1/18 | Judgments and rules | Harper Ch. 1-2 |  |
-| 2 | Tue | 1/23 | Judgments and rules |  |  |
-|  | Thu | 1/25 | Judgments and rules | Harper Ch. 3 | HW0 due Fri |
+|  | Thu | 1/18 | Judgments and rules<br/>[meeting02] | Harper Ch. 1-2 |  |
+| 2 | Tue | 1/23 | Judgments and rules<br/>[meeting03] |  |  |
+|  | Thu | 1/25 | Judgments and rules<br/>[meeting04] | Harper Ch. 3 | HW0 due Fri |
 | 3 | Tue | 1/30 | Statics and dynamics<br/>[meeting05] | Harper Ch. 4-5 |  |
 |  | Thu | 2/1 | Statics and dynamics<br/>[meeting06] |  |  |
 | 4 | Tue | 2/6 | Type safety<br/>[meeting07] | Harper Ch. 6-7 |  |
@@ -40,6 +40,9 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 5/3 | Final project presentations |  |  |
 | 17 | Tue | 5/8 | Finals week |  |  |
 
+[meeting02]: meetings/meeting02.class.pdf
+[meeting03]: meetings/meeting03.class.pdf
+[meeting04]: meetings/meeting04.class.pdf
 [meeting05]: meetings/meeting05.class.pdf
 [meeting06]: meetings/meeting06.class.pdf
 [meeting07]: meetings/meeting07.class.pdf
