@@ -10,11 +10,11 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 1/18 | Judgments and rules | Harper Ch. 1-2 |  |
 | 2 | Tue | 1/23 | Judgments and rules |  |  |
 |  | Thu | 1/25 | Judgments and rules | Harper Ch. 3 | HW0 due Fri |
-| 3 | Tue | 1/30 | Statics and dynamics | Harper Ch. 4-5 |  |
-|  | Thu | 2/1 | Statics and dynamics |  |  |
-| 4 | Tue | 2/6 | Type safety | Harper Ch. 6-7 |  |
-|  | Thu | 2/8 | Type safety |  | HW1 due Fri |
-| 5 | Tue | 2/13 | Imperative computation | Winskel Ch. 2; Harper Ch. 34 |  |
+| 3 | Tue | 1/30 | Statics and dynamics<br/>[meeting05] | Harper Ch. 4-5 |  |
+|  | Thu | 2/1 | Statics and dynamics<br/>[meeting06] |  |  |
+| 4 | Tue | 2/6 | Type safety<br/>[meeting07] | Harper Ch. 6-7 |  |
+|  | Thu | 2/8 | Type safety<br/>[meeting08] |  | HW1 due Fri |
+| 5 | Tue | 2/13 | Imperative computationy<br/>[meeting09] | Winskel Ch. 2; Harper Ch. 34 |  |
 |  | Thu | 2/15 | Function definitions and values | Harper Ch. 8 |  |
 | 6 | Tue | 2/20 | System T | Harper Ch. 9 |  |
 |  | Thu | 2/22| Finite data types | Harper Ch. 10-11 | HW2 due Fri |
@@ -39,3 +39,9 @@ The _Assignment_ column lists the due date for each assignment.
 | 16 | Tue | 5/1 | Final project presentations |  |  |
 |  | Thu | 5/3 | Final project presentations |  |  |
 | 17 | Tue | 5/8 | Finals week |  |  |
+
+[meeting05]: meetings/meeting05.class.pdf
+[meeting06]: meetings/meeting06.class.pdf
+[meeting07]: meetings/meeting07.class.pdf
+[meeting08]: meetings/meeting08.class.pdf
+[meeting09]: meetings/meeting09.class.pdf
