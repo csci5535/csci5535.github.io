@@ -4,7 +4,7 @@ Class meetings are Tuesdays and Thursdays 9:30-10:45 in ECEE 283.
 
 Please check the following calendar for the latest information about office hours and potentially review and help sessions.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=colorado.edu_7urh5rdc32h3lbhfp25bh0dds0%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&mode=WEEK&height=600&wkst=1&bgcolor=%23FFFFFF&src=colorado.edu_7urh5rdc32h3lbhfp25bh0dds0%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 All students should have received a welcome e-mail from me on how to get set up with the course tools. If you did not receive such a message, please send me an e-mail. All further correspondence will be via Piazza.
 
