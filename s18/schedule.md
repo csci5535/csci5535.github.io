@@ -15,17 +15,17 @@ The _Assignment_ column lists the due date for each assignment.
 | 4 | Tue | 2/6 | Type safety<br/>[meeting07] | Harper Ch. 6-7 |  |
 |  | Thu | 2/8 | Type safety<br/>[meeting08] |  | HW1 due Fri |
 | 5 | Tue | 2/13 | Imperative computation<br/>[meeting09] | Winskel Ch. 2; Harper Ch. 34 |  |
-|  | Thu | 2/15 | OCaml crash course | [OCaml](.#ocaml) |  |
+|  | Thu | 2/15 | Language implementation in OCaml | [OCaml](.#ocaml) |  |
 | 6 | Tue | 2/20 | Functions and System T | Harper Ch. 8-9 |  |
 |  | Thu | 2/22| Finite data types | Harper Ch. 10-11 | HW2 due Fri |
-| 7 | Tue | 2/27 | Propositions as types |  |  |
-|  | Thu | 3/1 | Inductive and coinductive types | Harper Ch. 14-15 |  |
-| 8 | Tue | 3/6 | Imperative computation |  |  |
-|  | Thu | 3/8 | Imperative computation |  |  |
-| 9 | Tue | 3/13 | Denotational semantics |  |  |
-|  | Thu | 3/15 | Denotational semantics |  |  |
-| 10 | Tue | 3/20 | Axiomatic semantics |  |  |
-|  | Thu | 3/22 | Axiomatic semantics |  |  |
+| 7 | Tue | 2/27 | Denotational semantics | Winskel Ch. 5 |  |
+|  | Thu | 3/1 | Denotational semantics | _Recommended_: Winskel Ch. 8 (read for the general concepts, not the details).<br/><br/>_Supplemental_: Schmidt. [Denotational Semantics].<br/><br/>_Classic_: Scott and Strachey. [Towards a Mathematical Semantics for Computer Languages].<br/><br/>_Supplemental_: For an alternative presentation of partial orders, least upper bounds, monotonic and continuous functions, and least fixed points, take a look at this [report][A Denotational Semantics for Dataflow with Firing]. (up to and including Section 2.4) |  |
+| 8 | Tue | 3/6 | Parametric polymorphism (System F) | Harper Ch. 16 |  |
+|  | Thu | 3/8 | Recursive types (System FPC) | Harper Ch. 19-20 |  |
+| 9 | Tue | 3/13 | Axiomatic semantics | Winskel Ch. 6 |  |
+|  | Thu | 3/15 | Axiomatic semantics | Winskel Ch. 7 |  |
+| 10 | Tue | 3/20 | Control flow | Harper Ch. 28 |  |
+|  | Thu | 3/22 | Exceptions and continuations | Harper Ch. 29-30 |  |
 | 11 | Tue | 3/27 | No class: spring break |  |  |
 |  | Thu | 3/29 | No class: spring break |  |  |
 | 12 | Tue | 4/3 | Abstract interpretation |  |  |
@@ -48,3 +48,7 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting07]: meetings/meeting07.class.pdf
 [meeting08]: meetings/meeting08.class.pdf
 [meeting09]: meetings/meeting09.class.pdf
+
+[Denotational Semantics]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf
+[Towards a Mathematical Semantics for Computer Languages]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/PRG06.pdf
+[A Denotational Semantics for Dataflow with Firing]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/lee-denote.pdf
