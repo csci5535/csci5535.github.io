@@ -121,7 +121,7 @@ Your proposal should address at least the following questions:
 3.  Define the problem that you will solve as concretely as possible. Provide a scope of expected and potential results. Give a few example programs that exhibit the problem that you are trying to solve.
 4.  What is the general approach that you intend to use to solve the problem?
 5.  Why do you think that approach will solve the problem? What resources (papers, book chapters, etc.) do you plan to base your solution on? Is there one in particular that you plan to follow? What about your solution will be similar? What will be different?
-6.  How do you plan to demonstrate your idea? Will you use your course compiler. If so, what specific changes do you plan to make to it (e.g., what passes need to be changed or added)?
+6.  How do you plan to demonstrate your idea?
 7.  How will you evaluate your idea? What will be the measurement for success?
 
 Your proposal should be concise and specific. Do not be long-winded or vague. You will not be graded on the length of the proposal, but you will be graded on how many interesting things you say.
