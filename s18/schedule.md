@@ -15,13 +15,13 @@ The _Assignment_ column lists the due date for each assignment.
 | 4 | Tue | 2/6 | Type safety<br/>[meeting07] | Harper Ch. 6-7 |  |
 |  | Thu | 2/8 | Type safety<br/>[meeting08] |  | HW1 due Fri |
 | 5 | Tue | 2/13 | Imperative computation<br/>[meeting09] | Winskel Ch. 2; Harper Ch. 34 |  |
-|  | Thu | 2/15 | Language implementation in OCaml | [OCaml](.#ocaml) |  |
-| 6 | Tue | 2/20 | Functions and System T | Harper Ch. 8-9 |  |
-|  | Thu | 2/22| Finite data types | Harper Ch. 10-11 | HW2 due Fri |
-| 7 | Tue | 2/27 | Denotational semantics | Winskel Ch. 5 |  |
-|  | Thu | 3/1 | Denotational semantics | _Recommended_: Winskel Ch. 8 (read for the general concepts, not the details).<br/><br/>_Supplemental_: Schmidt. [Denotational Semantics].<br/><br/>_Classic_: Scott and Strachey. [Towards a Mathematical Semantics for Computer Languages].<br/><br/>_Supplemental_: For an alternative presentation of partial orders, least upper bounds, monotonic and continuous functions, and least fixed points, take a look at this [report][A Denotational Semantics for Dataflow with Firing]. (up to and including Section 2.4) |  |
-| 8 | Tue | 3/6 | Parametric polymorphism (System F) | Harper Ch. 16 |  |
-|  | Thu | 3/8 | Recursive types (System FPC) | Harper Ch. 19-20 | HW3 due Fri |
+|  | Thu | 2/15 | Language implementation in OCaml <br/>[meeting10]| [OCaml](.#ocaml) |  |
+| 6 | Tue | 2/20 | Functions and System T<br/>[meeting11]| Harper Ch. 8-9 |  |
+|  | Thu | 2/22| Finite data types<br/>[meeting12] | Harper Ch. 10-11 | HW2 due Fri |
+| 7 | Tue | 2/27 | Denotational semantics<br/>[meeting13] | Winskel Ch. 5 |  |
+|  | Thu | 3/1 | Denotational semantics<br/>[meeting14] | _Recommended_: Winskel Ch. 8 (read for the general concepts, not the details).<br/><br/>_Supplemental_: Schmidt. [Denotational Semantics].<br/><br/>_Classic_: Scott and Strachey. [Towards a Mathematical Semantics for Computer Languages].<br/><br/>_Supplemental_: For an alternative presentation of partial orders, least upper bounds, monotonic and continuous functions, and least fixed points, take a look at this [report][A Denotational Semantics for Dataflow with Firing]. (up to and including Section 2.4) |  |
+| 8 | Tue | 3/6 | Recursive types (System FPC)<br/>[meeting15] | Harper Ch. 19-20 |  |
+|  | Thu | 3/8 | Parametric polymorphism (System F)<br/>[meeting16] | Harper Ch. 16 | HW3 due Fri |
 | 9 | Tue | 3/13 | Axiomatic semantics | Winskel Ch. 6 |  |
 |  | Thu | 3/15 | Axiomatic semantics | Winskel Ch. 7 |  |
 | 10 | Tue | 3/20 | Control flow | Harper Ch. 28 |  |
@@ -48,6 +48,13 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting07]: meetings/meeting07.class.pdf
 [meeting08]: meetings/meeting08.class.pdf
 [meeting09]: meetings/meeting09.class.pdf
+[meeting10]: meetings/meeting10.class.pdf
+[meeting11]: meetings/meeting11.class.pdf
+[meeting12]: meetings/meeting12.class.pdf
+[meeting13]: meetings/meeting13.class.pdf
+[meeting14]: meetings/meeting14.class.pdf
+[meeting15]: meetings/meeting15.class.pdf
+[meeting16]: meetings/meeting16.class.pdf
 
 [Denotational Semantics]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf
 [Towards a Mathematical Semantics for Computer Languages]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/PRG06.pdf
