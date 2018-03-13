@@ -9,6 +9,8 @@ Homework solutions should be submitted by 6:00 p.m. on the due date (with an aut
 **Due Friday, March 23, 2018**
 
 - [Handout](hws/hw04.pdf)
+
+## Homework Assignment 3
   
 **Due Friday, March 9, 2018**
 
