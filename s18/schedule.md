@@ -22,14 +22,14 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 3/1 | Denotational semantics<br/>[meeting14] | _Recommended_: Winskel Ch. 8 (read for the general concepts, not the details).<br/><br/>_Supplemental_: Schmidt. [Denotational Semantics].<br/><br/>_Classic_: Scott and Strachey. [Towards a Mathematical Semantics for Computer Languages].<br/><br/>_Supplemental_: For an alternative presentation of partial orders, least upper bounds, monotonic and continuous functions, and least fixed points, take a look at this [report][A Denotational Semantics for Dataflow with Firing]. (up to and including Section 2.4) |  |
 | 8 | Tue | 3/6 | Recursive types (System FPC)<br/>[meeting15] | Harper Ch. 19-20 |  |
 |  | Thu | 3/8 | Parametric polymorphism (System F)<br/>[meeting16] | Harper Ch. 16 | HW3 due Fri |
-| 9 | Tue | 3/13 | Axiomatic semantics | Winskel Ch. 6 |  |
+| 9 | Tue | 3/13 | Axiomatic semantics<br/>[meeting17] | Winskel Ch. 6 |  |
 |  | Thu | 3/15 | Axiomatic semantics | Winskel Ch. 7 |  |
 | 10 | Tue | 3/20 | Control flow | Harper Ch. 28 |  |
-|  | Thu | 3/22 | Exceptions and continuations | Harper Ch. 29-30 |  |
+|  | Thu | 3/22 | Exceptions and continuations | Harper Ch. 29-30 | ~~HW4 due Fri~~ |
 | 11 | Tue | 3/27 | No class: spring break |  |  |
 |  | Thu | 3/29 | No class: spring break |  |  |
 | 12 | Tue | 4/3 | Abstract interpretation |  |  |
-|  | Thu | 4/5 | Abstract interpretation |  |  |
+|  | Thu | 4/5 | Abstract interpretation |  | HW4 due Fri  |
 | 13 | Tue | 4/10 | Research application |  |  |
 |  | Thu | 4/12 | Research application |  |  |
 | 14 | Tue | 4/17 | Research application |  |  |
@@ -55,6 +55,7 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting14]: meetings/meeting14.class.pdf
 [meeting15]: meetings/meeting15.class.pdf
 [meeting16]: meetings/meeting16.class.pdf
+[meeting17]: meetings/meeting17.class.pdf
 
 [Denotational Semantics]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf
 [Towards a Mathematical Semantics for Computer Languages]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/PRG06.pdf
