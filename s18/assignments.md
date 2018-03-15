@@ -6,7 +6,8 @@ Homework solutions should be submitted by 6:00 p.m. on the due date (with an aut
 
 ## Homework Assignment 4
 
-**Due Friday, April 6, 2018** ~~Due Friday, March 23, 2018~~
+**Project Proposal Due Friday, March 23, 2018**<br/>
+**Full Assignment Due Friday, April 6, 2018**
 
 - [Handout](hws/hw04.pdf)
 

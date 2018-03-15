@@ -22,10 +22,10 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 3/1 | Denotational semantics<br/>[meeting14] | _Recommended_: Winskel Ch. 8 (read for the general concepts, not the details).<br/><br/>_Supplemental_: Schmidt. [Denotational Semantics].<br/><br/>_Classic_: Scott and Strachey. [Towards a Mathematical Semantics for Computer Languages].<br/><br/>_Supplemental_: For an alternative presentation of partial orders, least upper bounds, monotonic and continuous functions, and least fixed points, take a look at this [report][A Denotational Semantics for Dataflow with Firing]. (up to and including Section 2.4) |  |
 | 8 | Tue | 3/6 | Recursive types (System FPC)<br/>[meeting15] | Harper Ch. 19-20 |  |
 |  | Thu | 3/8 | Parametric polymorphism (System F)<br/>[meeting16] | Harper Ch. 16 | HW3 due Fri |
-| 9 | Tue | 3/13 | Axiomatic semantics<br/>[meeting17] | Winskel Ch. 6 |  |
-|  | Thu | 3/15 | Axiomatic semantics | Winskel Ch. 7 |  |
-| 10 | Tue | 3/20 | Control flow | Harper Ch. 28 |  |
-|  | Thu | 3/22 | Exceptions and continuations | Harper Ch. 29-30 | ~~HW4 due Fri~~ |
+| 9 | Tue | 3/13 | Catch-up questions<br/>[meeting17] | Winskel Ch. 6 |  |
+|  | Thu | 3/15 | Catch-up questions<br/>[meeting18] | Winskel Ch. 7 |  |
+| 10 | Tue | 3/20 | Axiomatic semantics | Harper Ch. 28 |  |
+|  | Thu | 3/22 | Control flow: Exceptions and continuations | Harper Ch. 29-30 | Proposal due Fri |
 | 11 | Tue | 3/27 | No class: spring break |  |  |
 |  | Thu | 3/29 | No class: spring break |  |  |
 | 12 | Tue | 4/3 | Abstract interpretation |  |  |
