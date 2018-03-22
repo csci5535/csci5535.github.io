@@ -24,8 +24,8 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 3/8 | Parametric polymorphism (System F)<br/>[meeting16] | Harper Ch. 16 | HW3 due Fri |
 | 9 | Tue | 3/13 | Catch-up questions<br/>[meeting17] | Winskel Ch. 6 |  |
 |  | Thu | 3/15 | Catch-up questions<br/>[meeting18] | Winskel Ch. 7 |  |
-| 10 | Tue | 3/20 | Axiomatic semantics | Harper Ch. 28 |  |
-|  | Thu | 3/22 | Control flow: Exceptions and continuations | Harper Ch. 29-30 | Proposal due Fri |
+| 10 | Tue | 3/20 | Axiomatic semantics<br/>[meeting19] | Harper Ch. 28 |  |
+|  | Thu | 3/22 | Control flow: Exceptions and continuations<br/>[meeting20] | Harper Ch. 29-30 | Proposal due Fri |
 | 11 | Tue | 3/27 | No class: spring break |  |  |
 |  | Thu | 3/29 | No class: spring break |  |  |
 | 12 | Tue | 4/3 | Abstract interpretation |  |  |
@@ -56,6 +56,9 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting15]: meetings/meeting15.class.pdf
 [meeting16]: meetings/meeting16.class.pdf
 [meeting17]: meetings/meeting17.class.pdf
+[meeting18]: meetings/meeting18.class.pdf
+[meeting19]: meetings/meeting19.class.pdf
+[meeting20]: meetings/meeting20.class.pdf
 
 [Denotational Semantics]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf
 [Towards a Mathematical Semantics for Computer Languages]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/PRG06.pdf
