@@ -22,16 +22,16 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 3/1 | Denotational semantics<br/>[meeting14] | _Recommended_: Winskel Ch. 8 (read for the general concepts, not the details).<br/><br/>_Supplemental_: Schmidt. [Denotational Semantics].<br/><br/>_Classic_: Scott and Strachey. [Towards a Mathematical Semantics for Computer Languages].<br/><br/>_Supplemental_: For an alternative presentation of partial orders, least upper bounds, monotonic and continuous functions, and least fixed points, take a look at this [report][A Denotational Semantics for Dataflow with Firing]. (up to and including Section 2.4) |  |
 | 8 | Tue | 3/6 | Recursive types (System FPC)<br/>[meeting15] | Harper Ch. 19-20 |  |
 |  | Thu | 3/8 | Parametric polymorphism (System F)<br/>[meeting16] | Harper Ch. 16 | HW3 due Fri |
-| 9 | Tue | 3/13 | Catch-up questions<br/>[meeting17] | Winskel Ch. 6 |  |
+| 9 | Tue | 3/13 | Catch-up questions<br/>[meeting17] | Winskel Ch. 6<br/><br/>_Recommended_: C.A.R. Hoare. [An Axiomatic Basis for Computer Programming]. CACM 12(10), October 1969.<br/></br>_Recommended_: Robert W. Floyd. [Assigning Meanings to Programs]. |  |
 |  | Thu | 3/15 | Catch-up questions<br/>[meeting18] | Winskel Ch. 7 |  |
 | 10 | Tue | 3/20 | Axiomatic semantics<br/>[meeting19] | Harper Ch. 28 |  |
 |  | Thu | 3/22 | Control flow: Exceptions and continuations<br/>[meeting20] | Harper Ch. 29-30 | Proposal due Fri |
 | 11 | Tue | 3/27 | No class: spring break |  |  |
 |  | Thu | 3/29 | No class: spring break |  |  |
-| 12 | Tue | 4/3 | Abstract interpretation |  |  |
-|  | Thu | 4/5 | Abstract interpretation |  | HW4 due Fri  |
-| 13 | Tue | 4/10 | Research application |  |  |
-|  | Thu | 4/12 | Research application |  |  |
+| 12 | Tue | 4/3 | Control flow: Exceptions and continuations |  |  |
+|  | Thu | 4/5 | Control flow: Exceptions and continuations |  | HW4 due Fri  |
+| 13 | Tue | 4/10 | Continuations, VC, AI (Abstract Interpretation) |  |  |
+|  | Thu | 4/12 | Continuations, VC, AI |  | Status Update due Fri |
 | 14 | Tue | 4/17 | Research application |  |  |
 |  | Thu | 4/19 | Research application |  |  |
 | 15 | Tue | 4/24 | Final exam review |  |  |
@@ -63,3 +63,5 @@ The _Assignment_ column lists the due date for each assignment.
 [Denotational Semantics]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/densem.pdf
 [Towards a Mathematical Semantics for Computer Languages]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/PRG06.pdf
 [A Denotational Semantics for Dataflow with Firing]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/lee-denote.pdf
+[An Axiomatic Basis for Computer Programming]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/hoare-axioms.pdf
+[Assigning Meanings to Programs]: https://www.cs.colorado.edu/~bec/courses/csci5535/reading/floyd-meaning.pdf
