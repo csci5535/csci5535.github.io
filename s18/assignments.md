@@ -67,9 +67,9 @@ The main goal of the project is to allow you to customize the content of the cou
 
 ## Project Dates
 
-* A pre-proposal is due on TBD.
-* The project proposal is due on TBD.
-* A project status update is due on TBD.
+* A pre-proposal is due on February 23, 2018.
+* The project proposal is due on March 23, 2018.
+* A project status update is due on April 13, 2018.
 * Project presentations will be held during the last week of classes.
 * The project paper is due on Sunday, May 6, 2018.
 * Peer reviews on project papers are due on Monday, May 7, 2018.
