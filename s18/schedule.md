@@ -32,13 +32,13 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 4/5 | Control flow: Exceptions and continuations |  | HW4 due Fri  |
 | 13 | Tue | 4/10 | Continuations, VC, AI (Abstract Interpretation) |  |  |
 |  | Thu | 4/12 | Continuations, VC, AI |  | Status Update due Fri |
-| 14 | Tue | 4/17 | Research application |  |  |
-|  | Thu | 4/19 | Research application |  |  |
+| 14 | Tue | 4/17 | Review |  |  |
+|  | Thu | 4/19 | Review |  |  |
 | 15 | Tue | 4/24 | Final exam review |  |  |
-|  | Thu | 4/26 | Final exam: evening (time TBA) |  |  |
+|  | Thu | 4/26 | Final exam: evening (time 7:30-10pm) |  |  |
 | 16 | Tue | 5/1 | Final project presentations |  |  |
 |  | Thu | 5/3 | Final project presentations |  |  |
-| 17 | Tue | 5/8 | Finals week |  |  |
+| 17 | Tue | 5/8 | Finals week |  | Paper due Sun |
 
 [meeting02]: meetings/meeting02.class.pdf
 [meeting03]: meetings/meeting03.class.pdf
