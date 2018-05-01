@@ -38,7 +38,7 @@ The _Assignment_ column lists the due date for each assignment.
 |  | Thu | 4/26 | Final exam: evening (time 7:30-10pm) |  |  |
 | 16 | Tue | 5/1 | Final project presentations |  |  |
 |  | Thu | 5/3 | Final project presentations |  | Presentation Peer Eval due Fri |
-| 17 | Tue | 5/8 | Finals week |  | Paper due Sun |
+| 17 | Tue | 5/8 | Finals week |  | Paper due Sun, Paper Peer Eval Extra Credit due Mon |
 
 [meeting02]: meetings/meeting02.class.pdf
 [meeting03]: meetings/meeting03.class.pdf
