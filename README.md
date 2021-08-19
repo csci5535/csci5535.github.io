@@ -1,1 +1,1 @@
-# CSCI7000: Graduate Seminar on Distributed Systems Verification
+# CSCI 5535 & ECEN 5533: Fundamentals of Programming Languages
