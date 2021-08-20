@@ -52,8 +52,8 @@ degree of precision that a *machine* can check if the proof we write is
 correct or incorrect. In fact we go so far as to only consider such
 *mechanized proofs* as real proofs in this course. And whats more, we shall
 also learn proof automation techniques that let us program a machine to
-*generate* a proof rather than just check it! These and more exciting
-things are going to be the topics of our classroom discussions this semester.
+*generate* a proof rather than just check it! See the [lecture
+schedule](schedule) to know what else is in store.
 
 ## Classroom and Office Hours
 
