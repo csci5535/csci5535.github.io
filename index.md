@@ -13,15 +13,15 @@ Welcome to CSCI 5535 Fall 2021 edition! The objective of this course is to
 study the mathematical foundations of computer programs and programming
 languages. To understand what we mean by "mathematical foundations", let's
 think back to a familiar concept from high school mathematics. Recall that
-the equations `3x+2y-1 = 0` and `3y-2x-2 = 0` describe two straight lines
+the equations $$3x+2y-1 = 0$$ and $$3y-2x-2 = 0$$ describe two straight lines
 on a Cartesian plane. If you were to plot these lines, you'd see that these
 lines *look* quite different; indeed they are literally orthogonal.
 However, if I were to ask you to find their slopes, or to tell me where
 they intersect the axes, your approach is likely going to be the same for
 both the lines. You would treat them as but different instantiations of the
-linear equation `ax + by + c = 0` and thereafter use same mathematics to
-reason about both. Now consider the equations `y = 3x^2+2x-1` and `y =
-2x-1`. This time, not only do the plots of the equations look very
+linear equation $$ax + by + c = 0$$ and thereafter use same mathematics to
+reason about both. Now consider the equations $$y = 3x^2+2x-1$$ and $$y =
+2x-1$$. This time, not only do the plots of the equations look very
 different, but the equations themselves are fundamentally different. Using
 their general forms we can even argue that the former -- a quadratic
 equation is *more general* or *more expressive* than the latter -- a linear
@@ -60,7 +60,7 @@ things are going to be the topics of our classroom discussions this semester.
 * **Instructor:** [Gowtham Kaki](http://gowthamk.github.io).
 * **Where:** ECCS 1B14 
 * **When:** M,W,F 3:00 - 3:50 PM
-* **Office Hours**: On [Piazza](https://piazza.com/class/kjw3pah6lmo1hv) or by appointment.
+* **Office Hours**: On [Piazza](https://piazza.com/colorado/fall2021/csci5535) or by appointment.
 
 ## Textbook
 
