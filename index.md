@@ -60,6 +60,8 @@ schedule](schedule) to know what else is in store.
 * **Instructor:** [Gowtham Kaki](http://gowthamk.github.io).
 * **Where:** ECCS 1B14 
 * **When:** M,W,F 3:00 - 3:50 PM
+* **Zoom:** <https://cuboulder.zoom.us/j/95381898612>. Email me for the
+  passcode.
 * **Office Hours**: On [Piazza](https://piazza.com/colorado/fall2021/csci5535) or by appointment.
 
 ## Textbook
@@ -75,5 +77,6 @@ schedule](schedule) to know what else is in store.
 | Item                |    Nos.  | Weight (%) |
 |---------------------|----------|--------------:|
 | Homeworks           |  8 of 10 |     40        |
-| Course Project      |     1    |     25        |
-| Final               |     1    |     35        |
+| Mid-term            |     1    |     20        |
+| Course Project      |     1    |     15        |
+| Final               |     1    |     25        |
