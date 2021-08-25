@@ -63,6 +63,7 @@ schedule](schedule) to know what else is in store.
 * **Zoom:** <https://cuboulder.zoom.us/j/95381898612>. Email me for the
   passcode.
 * **Office Hours**: On [Piazza](https://piazza.com/colorado/fall2021/csci5535) or by appointment.
+* **Canvas:** <https://canvas.colorado.edu/courses/77068>
 
 ## Textbook
 
