@@ -19,27 +19,29 @@ Notation "[ ]" := nil.
 Notation "[ x ; .. ; y ]" := (cons x .. (cons y nil) ..).
 
 Check 1::2::nil.
+(* (1:::2):::nil *)
 
 (* ----------------------------------------------------------------- *)
-(** *** Length *)
+(** *** Repeat *)
+(** the [repeat] function takes a number [n] and a [count] 
+    and returns a list of length [count] in which every element is [n].*)
 
-(** The [length] function calculates the length of a list. *)
+Fixpoint repeat (n count : nat) : natlist := 
+match count with
+| O => []
+| S count' => n :: (repeat n count')
+end.
 
-Fixpoint length (l:natlist) : nat.
-Proof. destruct l as [|x xs].
-- apply O.
-- apply S. apply (length xs).
-Qed.
+Compute (repeat 1 4).
 
 (* ----------------------------------------------------------------- *)
 (** *** Append *)
-
-(** The [app] function concatenates (appends) two lists. *)
+(** The [app] function concatenates (i.e., appends) two lists. *)
 
 Fixpoint app (l1 l2 : natlist) : natlist := 
   match l1 with
   | [] => l2
-  | x::xs => x::(app xs l2)
+  | x :: xs => x :: (app xs l2)
   end.
 
 (** Since [app] will be used extensively, it is again convenient
@@ -56,26 +58,42 @@ Proof. reflexivity. Qed.
 
 Theorem nil_app : forall l : natlist,
   [] ++ l = l.
-Proof. intros l. reflexivity. Qed.
+Proof. reflexivity. Qed.
 
 Theorem nil_app2 : forall l : natlist,
   l ++ [] = l.
-Proof. intros l. induction l as [| x xs IHxs].
+Proof. induction l as [ | x xs IHxs].
 - reflexivity.
 - simpl. rewrite -> IHxs. reflexivity.
-Qed.
+Qed. 
+
+Check natlist. 
 
 End ListPlayGround.
 (* ################################################################# *)
 (** * Polymorphism *)
 
 (** Polymorphic Lists *)
-Inductive list (X:Type) : Type :=
+(* How do you define a polymorphic list? *)
+(*
+Inductive natlist : Type :=
   | nil
-  | cons (x : X) (l : list X).
+  | cons (n : nat) (l : natlist).
+
+*)
+Inductive list (X:Type) : Type := 
+  | nil
+  | cons (x:X) (l : list X).
+
 
 (* What's the type of list? *)
 Check list.
+
+(* Inductive IntOrBool : Type := 
+  | Int (n:nat)
+  | Bool (b:bool).
+
+Compute (cons IntOrBool (Int 0) (cons IntOrBool (Bool true) (nil IntOrBool))).*)
 
 (* What's the type of nil? *)
 Check nil.
@@ -83,18 +101,29 @@ Check nil.
 (* What's the type of cons? *)
 Check cons.
 
+(*
+ * class List<T> {
+    T data;
+    List<T> next;  
+   }
+  * List<Int> l = new List<Int>(1).
+*)
+
 (* You can get the constructors for lists of natural numbers 
    by instantiating the type parameter with nat. *)
 Check nil nat.
 Check cons nat.
 
-(* We get polymorphic repeat function by parameterizing
-   it's definition over a type. *)
-Fixpoint repeat (X: Type) (x:X) (count:nat) : list X := 
+Compute (cons nat 0 (cons nat 1 (nil nat))).
+
+(* Polymorphic Repeat: We get polymorphic repeat function 
+   by parameterizing it's definition over a type. *)
+Fixpoint repeat (T:Type) (x:T) (count:nat) : list T :=
   match count with
-  | O => nil X
-  | S count' => cons X x (repeat X x count')
+  | O => nil T
+  | S count' => cons T x (repeat T x count')
   end.
+
 
 Example test_repeat1 :
   repeat nat 4 2 = cons nat 4 (cons nat 4 (nil nat)).
@@ -103,31 +132,31 @@ Proof. reflexivity. Qed.
 (* ----------------------------------------------------------------- *)
 (** *** Type Annotation Inference and Type Argument Synthesis *)
 
-Fixpoint repeat2 X x count : list X := 
+Fixpoint repeat2 T x count : list T :=
   match count with
   | O => nil _
-  | S count' => cons _ x (repeat2 _ x count')
+  | S count' => cons _ x (repeat2 T x count')
   end.
 
 Definition list123 :=
-  cons nat 1 (cons nat 2 (cons nat 3 (nil nat))).
+  cons _ 1 (cons _ 2 (cons _ 3 (nil _))).
 
 (* ----------------------------------------------------------------- *)
 (** *** Implicit Arguments *)
 
 Arguments nil {X}.
 Arguments cons {X}.
-Arguments repeat {X}.
+Arguments repeat {T}.
 
 Definition list123_simple := 
-  cons 1 (cons 2 (cons 3 nil)).
+  cons 1 (cons 2 (cons 3 (nil))).
 
 Compute (repeat 1 4).
 
-(* We can make the type argument to repeat implicit by definition. *)
-Fixpoint repeat3 {X} x count : list X := 
+(* We can make the type argument to repeat implicit *by definition*. *)
+Fixpoint repeat3 {T:Type} (x:T) (count:nat) : list T :=
   match count with
-  | O => nil 
+  | O => nil
   | S count' => cons x (repeat3 x count')
   end.
 
@@ -143,12 +172,7 @@ Notation "[ x ; .. ; y ]" := (cons x .. (cons y []) ..).
 Notation "x ++ y" := (app x y)
   (at level 60, right associativity).
 
-
-Fixpoint app {X} l1 l2 : list X :=
-  match l1 with
-  | [] => l2
-  | x::xs => x::(app xs l2)
-  end.
+Fixpoint app {X} l1 l2 : list X.
 
 Fixpoint rev {X:Type} (l:list X) : list X.
 
@@ -198,6 +222,5 @@ Fixpoint zip {X Y : Type} (lx : list X) (ly : list Y)
   | _, [] => []
   | x :: tx, y :: ty => (x, y) :: (zip tx ty)
   end.
-
 
   
