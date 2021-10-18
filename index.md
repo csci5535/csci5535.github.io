@@ -79,5 +79,5 @@ schedule](schedule) to know what else is in store.
 |---------------------|----------|--------------:|
 | Homeworks           |  8 of 10 |     40        |
 | Mid-term            |     1    |     20        |
-| Course Project      |     1    |     15        |
-| Final               |     1    |     25        |
+| Course Project      |     1    |     20        |
+| Final               |     1    |     20        |
