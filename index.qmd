@@ -1,14 +1,31 @@
 ---
 title: "Fundamentals of Programming Languages"
+instructors:
+  evan: Prof. Bor-Yuh Evan Chang [![](https://github.com/bechang.png?size=32)](https://github.com/bechang)
+  gowtham: Prof. Gowtham Kaki [![](https://github.com/gowthamk.png?size=32)](https://github.com/gowthamk)
+  matt: Prof. Matthew A. Hammer [![](https://github.com/matthewhammer.png?size=32)](https://github.com/matthewhammer)
 ---
 
 # Course Websites
 
-![](https://github.com/bechang.png?size=32) [Fall 2023](https://csci5535.cs.colorado.edu/f23) - Prof. Bor-Yuh Evan Chang
+[Fall 2023](https://csci5535.cs.colorado.edu/f23)
+- {{< meta instructors.evan >}}
 
-![](https://github.com/gowthamk.png?size=32) [Fall 2021](https://csci5535.cs.colorado.edu/f21) - Prof. Gowtham Kaki
+[Fall 2021](https://csci5535.cs.colorado.edu/f21)
+- {{< meta instructors.gowtham >}}
 
-![](https://github.com/bechang.png?size=32) [Spring 2020](https://csci5535.cs.colorado.edu/s20) - Prof. Bor-Yuh Evan Chang
+[Spring 2020](https://csci5535.cs.colorado.edu/s20)
+- {{< meta instructors.evan >}}
+
+[Spring 2018](https://csci5535.cs.colorado.edu/s18)
+- {{< meta instructors.evan >}}
+and {{< meta instructors.matt >}}
+
+[Fall 2016](http://matthewhammer.org/courses/csci5535-f16/)
+- {{< meta instructors.matt >}}
+
+[Fall 2015](https://home.cs.colorado.edu/~maha2973/csci5535/f15/)
+- {{< meta instructors.matt >}}
 
 # Course Overview
 
