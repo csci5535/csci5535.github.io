@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "CSCI 5535 & ECEN 5533 - University of Colorado Boulder"
+  site-url: https://csci5535.cs.colorado.edu
+  navbar:
+    tools:
+    - href: https://github.com/csci5535
+      icon: github
+  repo-url: https://github.com/csci5535
+  repo-actions: [source, edit]
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true

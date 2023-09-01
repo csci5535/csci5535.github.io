@@ -1,0 +1,49 @@
+---
+title: "Fundamentals of Programming Languages"
+---
+
+# Course Websites
+
+![](https://github.com/bechang.png?size=32) [Fall 2023](https://csci5535.cs.colorado.edu/f23) - Prof. Bor-Yuh Evan Chang
+
+![](https://github.com/gowthamk.png?size=32) [Fall 2021](https://csci5535.cs.colorado.edu/f21) - Prof. Gowtham Kaki
+
+![](https://github.com/bechang.png?size=32) [Spring 2020](https://csci5535.cs.colorado.edu/s20) - Prof. Bor-Yuh Evan Chang
+
+# Course Overview
+
+This course introduces the fundamental principles behind modern programming
+language design, semantics, and implementation. Ultimately, you should come away
+with the ability to apply foundational programming language ideas and techniques
+to your own projects.
+
+The course has two broad topics:
+
+- Introduction to Semantics and Type Systems: How do we describe programming
+languages? And which programs “make sense”?
+- Research Applications: Students will have the opportunity to consider other
+related topics of interest in the form of a course project, most often in the
+form of a survey of recent research on a topic of interest.
+
+# Prerequisites
+
+The prerequisites for this course are programming and mathematical experience
+with several different programming languages (e.g., C, ML, Java) with diverse
+computational models (i.e., imperative **and** functional), which may be
+satisfied by taking [CSCI
+3155](http://www.cs.colorado.edu/courses/csci3155.html) or equivalent. The ideal
+programming experience is experience implementing language tools, which may be
+satisfied by taking an undergraduate compilers course (e.g., [CSCI
+4555](http://www.cs.colorado.edu/courses/csci4555.html)). The ideal mathematical
+experience is familiarity with mathematical logic and the ability to construct
+rigorous proofs (in particular by structural induction). Your desire to be
+exposed to this material is _very important_. 
+
+Advanced undergraduates may consider taking this course after talking with the
+instructor. 
+
+If you have not already taken these courses or if you have any concerns, please
+talk with the instructor. Proficiency in programming and mathematical logic is
+absolutely expected. This means that you should be able to pick up a new
+programming language with relative ease and are reasonably comfortable with
+inductive thinking.
