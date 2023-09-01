@@ -8,7 +8,7 @@ website:
     tools:
     - href: https://github.com/csci5535
       icon: github
-  repo-url: https://github.com/csci5535
+  repo-url: https://github.com/csci5535/csci5535.github.io
   repo-actions: [source, edit]
 
 format:
