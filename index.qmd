@@ -8,6 +8,9 @@ instructors:
 
 # Course Websites
 
+[Fall 2024](https://csci5535.cs.colorado.edu/f24)
+- {{< meta instructors.gowtham >}}
+
 [Fall 2023](https://csci5535.cs.colorado.edu/f23)
 - {{< meta instructors.evan >}}
 
